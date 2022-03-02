@@ -38,7 +38,7 @@
         },
         "flarum-extension": {
             "title": "Glass Theme",
-            "category": "theme"
+            "category": "theme",
             "icon": {
                 "image": "icon.svg",
                 "backgroundColor": "#fff",
